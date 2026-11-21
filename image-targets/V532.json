@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 125,
+    "width": 772,
+    "height": 1030,
+    "isRotated": true,
+    "originalWidth": 1024,
+    "originalHeight": 1030
+  },
+  "imagePath": "image-targets/V532_luminance.jpg",
+  "metadata": null,
+  "name": "V532",
+  "resources": {
+    "originalImage": "V532_original.jpg",
+    "croppedImage": "V532_cropped.jpg",
+    "thumbnailImage": "V532_thumbnail.jpg",
+    "luminanceImage": "V532_luminance.jpg"
+  },
+  "created": 1789595078733,
+  "updated": 1789595078733
+}

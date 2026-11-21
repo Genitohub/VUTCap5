@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 82,
+    "width": 573,
+    "height": 765,
+    "isRotated": true,
+    "originalWidth": 739,
+    "originalHeight": 765
+  },
+  "imagePath": "image-targets/V531_luminance.jpg",
+  "metadata": null,
+  "name": "V531",
+  "resources": {
+    "originalImage": "V531_original.jpg",
+    "croppedImage": "V531_cropped.jpg",
+    "thumbnailImage": "V531_thumbnail.jpg",
+    "luminanceImage": "V531_luminance.jpg"
+  },
+  "created": 1790110592145,
+  "updated": 1790110592145
+}

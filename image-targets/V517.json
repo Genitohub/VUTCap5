@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 103,
+    "left": 0,
+    "width": 533,
+    "height": 710,
+    "isRotated": true,
+    "originalWidth": 533,
+    "originalHeight": 918
+  },
+  "imagePath": "image-targets/V517_luminance.jpg",
+  "metadata": null,
+  "name": "V517",
+  "resources": {
+    "originalImage": "V517_original.jpg",
+    "croppedImage": "V517_cropped.jpg",
+    "thumbnailImage": "V517_thumbnail.jpg",
+    "luminanceImage": "V517_luminance.jpg"
+  },
+  "created": 1790110241331,
+  "updated": 1790110241331
+}

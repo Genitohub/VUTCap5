@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 276,
+    "left": 0,
+    "width": 494,
+    "height": 658,
+    "isRotated": true,
+    "originalWidth": 494,
+    "originalHeight": 1211
+  },
+  "imagePath": "image-targets/V512b_luminance.jpg",
+  "metadata": null,
+  "name": "V512b",
+  "resources": {
+    "originalImage": "V512b_original.jpg",
+    "croppedImage": "V512b_cropped.jpg",
+    "thumbnailImage": "V512b_thumbnail.jpg",
+    "luminanceImage": "V512b_luminance.jpg"
+  },
+  "created": 1794867161640,
+  "updated": 1794867161640
+}
